@@ -31,7 +31,6 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 ## 🔧 Installation
 
 1. **Download** the Bloxluck Predictor:
-   - [Download Bloxluck Predictor](https://github.com/yourusername/repository/releases/download/v1.0/bloxluck_predictor.zip)
 
 2. **Extract** the files from the ZIP archive.
 
