@@ -44,8 +44,8 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 ## 🕹️ How to Use?
 
 1. **Go to the Website**:
-   - For *Adopt Me!*, visit [https://amp.bloxluck.com](https://amp.bloxluck.com).
-   - For *Murder Mystery 2*, visit [https://bloxluck.com/](https://bloxluck.com/).
+   - For *Adopt Me!*, visit <a href="https://bloxluck.com/" target="_blank">Adopt Me</a>
+   - For *Murder Mystery 2*, visit <a href="https://bloxluck.com/" target="_blank">Murder Mystery 2</a>
 
 2. **Open the Extensions Menu**:
    - In the top-right corner of your browser, click the **puzzle icon** to open the Extensions menu.
