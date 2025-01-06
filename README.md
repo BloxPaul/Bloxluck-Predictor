@@ -53,7 +53,7 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 
 4. **Enter the Key**:
    - When the Bloxluck Predictor panel appears, enter the following key:
-     ...
+     Contact on dc for key Dc: xizdriab
      - Make sure to enter it **exactly** as shown!
 # How It Works
 
