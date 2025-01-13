@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>Bloxluck Predictor</h3>
-  Do you want to win? Welcome :))
+  Do you want to win?
   <br />
   <br />
 </div>
