@@ -52,7 +52,7 @@ BloxLuck Predictor allows you to grow your inventory in Adopt Me! and Murder Mys
 3. **Select "Bloxluck Predictor"** from the list of extensions.
 
 4. **Enter the Key**:
-   - When the Bloxluck Predictor panel appears, enter the Demo key (if you want full version contact on discord:xizdriab):
+   - When the Bloxluck Predictor panel appears, enter the Demo key (if you want full version contact on discord: xizdriab):
    - **Key**: `JGXYnoiAOzxFutpjKOHcHtAcw`    🔑
      - Make sure to enter it **exactly** as shown!
 # How It Works
